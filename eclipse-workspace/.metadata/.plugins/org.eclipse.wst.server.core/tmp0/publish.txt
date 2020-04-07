@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Apr 06 07:59:14 PDT 2020
+org.eclipse.jst.jee.server\:/binary\:/home/azerty/.m2/repository/org/springframework/spring-web/4.0.5.RELEASE/spring-web-4.0.5.RELEASE.jar=WEB-INF/lib/spring-web-4.0.5.RELEASE.jar
+org.eclipse.jst.j2ee.server\:/binary\:/home/azerty/.m2/repository/org/springframework/spring-web/4.0.5.RELEASE/spring-web-4.0.5.RELEASE.jar=WEB-INF/lib/spring-web-4.0.5.RELEASE.jar

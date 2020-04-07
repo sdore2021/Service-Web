@@ -1,0 +1,2497 @@
+!SESSION 2020-04-04 03:12:47.042 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_242
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.p2.metadata 1 0 2020-04-04 03:26:43.089
+!MESSAGE No translation source unavailable. Default language will be used.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:28:06.243
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 03:28:06.244
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 03:28:06.244
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:28:06.244
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.244
+!MESSAGE Software being installed: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.244
+!MESSAGE Missing requirement: J2EE Core Tests Component 1.1.300.v200905031931 (org.eclipse.jst.j2ee.core.tests 1.1.300.v200905031931) requires 'osgi.bundle; org.junit [3.8.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:28:06.244
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.244
+!MESSAGE From: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.244
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.j2ee.core.tests [1.1.300.v200905031931,1.1.300.v200905031931]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:28:06.266
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 03:28:06.267
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 03:28:06.267
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:28:06.267
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.267
+!MESSAGE Software being installed: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.267
+!MESSAGE Missing requirement: J2EE Core Tests Component 1.1.300.v200905031931 (org.eclipse.jst.j2ee.core.tests 1.1.300.v200905031931) requires 'osgi.bundle; org.junit [3.8.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:28:06.267
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.267
+!MESSAGE From: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.267
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.j2ee.core.tests [1.1.300.v200905031931,1.1.300.v200905031931]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:28:06.351
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 03:28:06.351
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 03:28:06.351
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:28:06.351
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.351
+!MESSAGE Software being installed: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.351
+!MESSAGE Missing requirement: J2EE Core Tests Component 1.1.300.v200905031931 (org.eclipse.jst.j2ee.core.tests 1.1.300.v200905031931) requires 'osgi.bundle; org.junit [3.8.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:28:06.351
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.351
+!MESSAGE From: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.351
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.j2ee.core.tests [1.1.300.v200905031931,1.1.300.v200905031931]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:28:06.351
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 03:28:06.351
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 03:28:06.351
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:28:06.352
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.352
+!MESSAGE Software being installed: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.352
+!MESSAGE Missing requirement: J2EE Core Tests Component 1.1.300.v200905031931 (org.eclipse.jst.j2ee.core.tests 1.1.300.v200905031931) requires 'osgi.bundle; org.junit [3.8.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:28:06.352
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.352
+!MESSAGE From: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:28:06.352
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.j2ee.core.tests [1.1.300.v200905031931,1.1.300.v200905031931]
+!SESSION 2020-04-04 03:30:43.040 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_242
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data file:/home/azerty/eclipse-workspace/ -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:35:55.219
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 03:35:55.219
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 03:35:55.219
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:35:55.219
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.219
+!MESSAGE Software being installed: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.219
+!MESSAGE Missing requirement: J2EE Core Tests Component 1.1.300.v200905031931 (org.eclipse.jst.j2ee.core.tests 1.1.300.v200905031931) requires 'osgi.bundle; org.junit [3.8.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:35:55.223
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.223
+!MESSAGE From: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.223
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.j2ee.core.tests [1.1.300.v200905031931,1.1.300.v200905031931]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:35:55.237
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 03:35:55.238
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 03:35:55.238
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:35:55.238
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.238
+!MESSAGE Software being installed: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.238
+!MESSAGE Missing requirement: J2EE Core Tests Component 1.1.300.v200905031931 (org.eclipse.jst.j2ee.core.tests 1.1.300.v200905031931) requires 'osgi.bundle; org.junit [3.8.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:35:55.238
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.238
+!MESSAGE From: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.238
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.j2ee.core.tests [1.1.300.v200905031931,1.1.300.v200905031931]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:35:55.319
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 03:35:55.319
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 03:35:55.319
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:35:55.319
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.319
+!MESSAGE Software being installed: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.319
+!MESSAGE Missing requirement: J2EE Core Tests Component 1.1.300.v200905031931 (org.eclipse.jst.j2ee.core.tests 1.1.300.v200905031931) requires 'osgi.bundle; org.junit [3.8.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:35:55.319
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.319
+!MESSAGE From: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.319
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.j2ee.core.tests [1.1.300.v200905031931,1.1.300.v200905031931]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:35:55.322
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 03:35:55.322
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 03:35:55.322
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:35:55.322
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.322
+!MESSAGE Software being installed: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.322
+!MESSAGE Missing requirement: J2EE Core Tests Component 1.1.300.v200905031931 (org.eclipse.jst.j2ee.core.tests 1.1.300.v200905031931) requires 'osgi.bundle; org.junit [3.8.0,4.0.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:35:55.322
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.322
+!MESSAGE From: JST Web Tests 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW (org.eclipse.jst.web_tests.feature.feature.group 3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:35:55.322
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.j2ee.core.tests [1.1.300.v200905031931,1.1.300.v200905031931]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:36:01.989
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:36:01.989
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:36:01.989
+!MESSAGE Software being installed: Patch feature for tests 3.1.2.v201003171400-20Bi7w312115242715 (org.eclipse.jst.web_tests.feature.patch.feature.group 3.1.2.v201003171400-20Bi7w312115242715)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:36:01.989
+!MESSAGE Missing requirement: Patch feature for tests 3.1.2.v201003171400-20Bi7w312115242715 (org.eclipse.jst.web_tests.feature.patch.feature.group 3.1.2.v201003171400-20Bi7w312115242715) requires 'org.eclipse.equinox.p2.iu; org.eclipse.jst.web_tests.feature.feature.group [3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW,3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:36:01.995
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:36:01.995
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:36:01.995
+!MESSAGE Software being installed: Patch feature for tests 3.1.2.v201003171400-20Bi7w312115242715 (org.eclipse.jst.web_tests.feature.patch.feature.group 3.1.2.v201003171400-20Bi7w312115242715)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:36:01.995
+!MESSAGE Missing requirement: Patch feature for tests 3.1.2.v201003171400-20Bi7w312115242715 (org.eclipse.jst.web_tests.feature.patch.feature.group 3.1.2.v201003171400-20Bi7w312115242715) requires 'org.eclipse.equinox.p2.iu; org.eclipse.jst.web_tests.feature.feature.group [3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW,3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:37:29.128
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:37:29.128
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:37:29.128
+!MESSAGE Software being installed: Patch feature for tests 3.1.2.v201003171400-20Bi7w312115242715 (org.eclipse.jst.web_tests.feature.patch.feature.group 3.1.2.v201003171400-20Bi7w312115242715)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:37:29.128
+!MESSAGE Missing requirement: Patch feature for tests 3.1.2.v201003171400-20Bi7w312115242715 (org.eclipse.jst.web_tests.feature.patch.feature.group 3.1.2.v201003171400-20Bi7w312115242715) requires 'org.eclipse.equinox.p2.iu; org.eclipse.jst.web_tests.feature.feature.group [3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW,3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:37:29.130
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:37:29.130
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:37:29.130
+!MESSAGE Software being installed: Patch feature for tests 3.1.2.v201003171400-20Bi7w312115242715 (org.eclipse.jst.web_tests.feature.patch.feature.group 3.1.2.v201003171400-20Bi7w312115242715)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:37:29.130
+!MESSAGE Missing requirement: Patch feature for tests 3.1.2.v201003171400-20Bi7w312115242715 (org.eclipse.jst.web_tests.feature.patch.feature.group 3.1.2.v201003171400-20Bi7w312115242715) requires 'org.eclipse.equinox.p2.iu; org.eclipse.jst.web_tests.feature.feature.group [3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW,3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:38:03.838
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:38:03.839
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:38:03.839
+!MESSAGE Software being installed: Patch feature for tests 3.1.2.v201003171400-20Bi7w312115242715 (org.eclipse.jst.web_tests.feature.patch.feature.group 3.1.2.v201003171400-20Bi7w312115242715)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:38:03.839
+!MESSAGE Missing requirement: Patch feature for tests 3.1.2.v201003171400-20Bi7w312115242715 (org.eclipse.jst.web_tests.feature.patch.feature.group 3.1.2.v201003171400-20Bi7w312115242715) requires 'org.eclipse.equinox.p2.iu; org.eclipse.jst.web_tests.feature.feature.group [3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW,3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:38:03.845
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:38:03.845
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:38:03.845
+!MESSAGE Software being installed: Patch feature for tests 3.1.2.v201003171400-20Bi7w312115242715 (org.eclipse.jst.web_tests.feature.patch.feature.group 3.1.2.v201003171400-20Bi7w312115242715)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:38:03.845
+!MESSAGE Missing requirement: Patch feature for tests 3.1.2.v201003171400-20Bi7w312115242715 (org.eclipse.jst.web_tests.feature.patch.feature.group 3.1.2.v201003171400-20Bi7w312115242715) requires 'org.eclipse.equinox.p2.iu; org.eclipse.jst.web_tests.feature.feature.group [3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW,3.1.1.v200908121609-794FZ-EVVFIwFhRtLnWW]' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:41:54.834
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 03:41:54.834
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 03:41:54.834
+!MESSAGE Eclipse XML Editors and Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 03:41:54.834
+!MESSAGE "JST Server Adapters Extensions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 03:41:54.834
+!MESSAGE "JavaScript Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 03:41:54.834
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:41:54.834
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.834
+!MESSAGE Software being installed: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.834
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v200909030330 (org.eclipse.jst.j2ee 1.1.301.v200909030330) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.834
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v201001272230 (org.eclipse.jst.j2ee 1.1.301.v201001272230) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.834
+!MESSAGE Missing requirement: Java EE Component 1.1.302.v201004131604 (org.eclipse.jst.j2ee 1.1.302.v201004131604) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:41:54.834
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.834
+!MESSAGE From: WTP EJB UI Plug-in 1.1.301.v200908131325 (org.eclipse.jst.ejb.ui 1.1.301.v200908131325)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.834
+!MESSAGE To: osgi.bundle; org.eclipse.jst.j2ee [1.1.0,1.2.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:41:54.834
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.834
+!MESSAGE From: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.834
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.ejb.ui [1.1.301.v200908131325,1.1.301.v200908131325]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:41:54.845
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 03:41:54.846
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 03:41:54.846
+!MESSAGE Eclipse XML Editors and Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 03:41:54.846
+!MESSAGE "JST Server Adapters Extensions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 03:41:54.846
+!MESSAGE "JavaScript Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 03:41:54.846
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:41:54.846
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.846
+!MESSAGE Software being installed: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.846
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v200909030330 (org.eclipse.jst.j2ee 1.1.301.v200909030330) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.846
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v201001272230 (org.eclipse.jst.j2ee 1.1.301.v201001272230) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.846
+!MESSAGE Missing requirement: Java EE Component 1.1.302.v201004131604 (org.eclipse.jst.j2ee 1.1.302.v201004131604) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:41:54.846
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.846
+!MESSAGE From: WTP EJB UI Plug-in 1.1.301.v200908131325 (org.eclipse.jst.ejb.ui 1.1.301.v200908131325)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.846
+!MESSAGE To: osgi.bundle; org.eclipse.jst.j2ee [1.1.0,1.2.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:41:54.846
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.846
+!MESSAGE From: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.846
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.ejb.ui [1.1.301.v200908131325,1.1.301.v200908131325]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:41:54.963
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 03:41:54.963
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 03:41:54.963
+!MESSAGE Eclipse XML Editors and Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 03:41:54.963
+!MESSAGE "JST Server Adapters Extensions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 03:41:54.963
+!MESSAGE "JavaScript Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 03:41:54.963
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:41:54.963
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.963
+!MESSAGE Software being installed: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.963
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v200909030330 (org.eclipse.jst.j2ee 1.1.301.v200909030330) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.963
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v201001272230 (org.eclipse.jst.j2ee 1.1.301.v201001272230) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.963
+!MESSAGE Missing requirement: Java EE Component 1.1.302.v201004131604 (org.eclipse.jst.j2ee 1.1.302.v201004131604) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:41:54.963
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.963
+!MESSAGE From: WTP EJB UI Plug-in 1.1.301.v200908131325 (org.eclipse.jst.ejb.ui 1.1.301.v200908131325)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.965
+!MESSAGE To: osgi.bundle; org.eclipse.jst.j2ee [1.1.0,1.2.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:41:54.965
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.965
+!MESSAGE From: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.965
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.ejb.ui [1.1.301.v200908131325,1.1.301.v200908131325]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 03:41:54.966
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 03:41:54.966
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 03:41:54.966
+!MESSAGE Eclipse XML Editors and Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 03:41:54.966
+!MESSAGE "JST Server Adapters Extensions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 03:41:54.966
+!MESSAGE "JavaScript Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 03:41:54.966
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 03:41:54.966
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.966
+!MESSAGE Software being installed: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.966
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v200909030330 (org.eclipse.jst.j2ee 1.1.301.v200909030330) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.966
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v201001272230 (org.eclipse.jst.j2ee 1.1.301.v201001272230) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.966
+!MESSAGE Missing requirement: Java EE Component 1.1.302.v201004131604 (org.eclipse.jst.j2ee 1.1.302.v201004131604) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:41:54.966
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.966
+!MESSAGE From: WTP EJB UI Plug-in 1.1.301.v200908131325 (org.eclipse.jst.ejb.ui 1.1.301.v200908131325)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.966
+!MESSAGE To: osgi.bundle; org.eclipse.jst.j2ee [1.1.0,1.2.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 03:41:54.966
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.966
+!MESSAGE From: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 03:41:54.966
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.ejb.ui [1.1.301.v200908131325,1.1.301.v200908131325]
+!SESSION 2020-04-04 03:47:17.682 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_242
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data file:/home/azerty/eclipse-workspace/ -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 03:47:38.116
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 03:47:38.120
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6c46dc02,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5606d537,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 03:47:38.120
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,Run on Server,
+		Run the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@b5390,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,Run RAP Application,
+		Run RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@59831016,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 03:47:38.120
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,Debug on Server,
+		Debug the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@37f71e8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,Debug RAP Application,
+		Debug RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@63b0b3dd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 04:05:09.369
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 04:05:09.369
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 04:05:09.369
+!MESSAGE Eclipse XML Editors and Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.369
+!MESSAGE "Web Page Editor (Optional)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:05:09.369
+!MESSAGE "JST Server Adapters Extensions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.369
+!MESSAGE "Apache MyFaces Trinidad Tag Support (Optional)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.369
+!MESSAGE "Eclipse XSL Developer Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:05:09.370
+!MESSAGE "JavaScript Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.370
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 04:05:09.370
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.370
+!MESSAGE Software being installed: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.370
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v200909030330 (org.eclipse.jst.j2ee 1.1.301.v200909030330) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.370
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v201001272230 (org.eclipse.jst.j2ee 1.1.301.v201001272230) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.370
+!MESSAGE Missing requirement: Java EE Component 1.1.302.v201004131604 (org.eclipse.jst.j2ee 1.1.302.v201004131604) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:05:09.370
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.371
+!MESSAGE From: WTP EJB UI Plug-in 1.1.301.v200908131325 (org.eclipse.jst.ejb.ui 1.1.301.v200908131325)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.371
+!MESSAGE To: osgi.bundle; org.eclipse.jst.j2ee [1.1.0,1.2.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:05:09.371
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.371
+!MESSAGE From: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.371
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.ejb.ui [1.1.301.v200908131325,1.1.301.v200908131325]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 04:05:09.399
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 04:05:09.399
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 04:05:09.399
+!MESSAGE Eclipse XML Editors and Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.399
+!MESSAGE "Web Page Editor (Optional)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:05:09.399
+!MESSAGE "JST Server Adapters Extensions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.399
+!MESSAGE "Apache MyFaces Trinidad Tag Support (Optional)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.399
+!MESSAGE "Eclipse XSL Developer Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:05:09.399
+!MESSAGE "JavaScript Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.399
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 04:05:09.399
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.399
+!MESSAGE Software being installed: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.399
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v200909030330 (org.eclipse.jst.j2ee 1.1.301.v200909030330) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.400
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v201001272230 (org.eclipse.jst.j2ee 1.1.301.v201001272230) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.400
+!MESSAGE Missing requirement: Java EE Component 1.1.302.v201004131604 (org.eclipse.jst.j2ee 1.1.302.v201004131604) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:05:09.400
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.400
+!MESSAGE From: WTP EJB UI Plug-in 1.1.301.v200908131325 (org.eclipse.jst.ejb.ui 1.1.301.v200908131325)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.400
+!MESSAGE To: osgi.bundle; org.eclipse.jst.j2ee [1.1.0,1.2.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:05:09.400
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.400
+!MESSAGE From: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.400
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.ejb.ui [1.1.301.v200908131325,1.1.301.v200908131325]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 04:05:09.484
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 04:05:09.485
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 04:05:09.485
+!MESSAGE Eclipse XML Editors and Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.485
+!MESSAGE "Web Page Editor (Optional)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:05:09.485
+!MESSAGE "JST Server Adapters Extensions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.485
+!MESSAGE "Apache MyFaces Trinidad Tag Support (Optional)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.485
+!MESSAGE "Eclipse XSL Developer Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:05:09.485
+!MESSAGE "JavaScript Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.485
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 04:05:09.485
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.485
+!MESSAGE Software being installed: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.485
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v200909030330 (org.eclipse.jst.j2ee 1.1.301.v200909030330) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.485
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v201001272230 (org.eclipse.jst.j2ee 1.1.301.v201001272230) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.485
+!MESSAGE Missing requirement: Java EE Component 1.1.302.v201004131604 (org.eclipse.jst.j2ee 1.1.302.v201004131604) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:05:09.485
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.485
+!MESSAGE From: WTP EJB UI Plug-in 1.1.301.v200908131325 (org.eclipse.jst.ejb.ui 1.1.301.v200908131325)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.485
+!MESSAGE To: osgi.bundle; org.eclipse.jst.j2ee [1.1.0,1.2.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:05:09.485
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.485
+!MESSAGE From: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.485
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.ejb.ui [1.1.301.v200908131325,1.1.301.v200908131325]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2020-04-04 04:05:09.486
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 04:05:09.486
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 04:05:09.486
+!MESSAGE Eclipse XML Editors and Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.486
+!MESSAGE "Web Page Editor (Optional)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:05:09.486
+!MESSAGE "JST Server Adapters Extensions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.486
+!MESSAGE "Apache MyFaces Trinidad Tag Support (Optional)" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.486
+!MESSAGE "Eclipse XSL Developer Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:05:09.486
+!MESSAGE "JavaScript Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10004 2020-04-04 04:05:09.486
+!MESSAGE "Eclipse XML Editors and Tools" will be ignored because a newer version is already installed. 
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2020-04-04 04:05:09.486
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.486
+!MESSAGE Software being installed: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.486
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v200909030330 (org.eclipse.jst.j2ee 1.1.301.v200909030330) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.486
+!MESSAGE Missing requirement: Java EE Component 1.1.301.v201001272230 (org.eclipse.jst.j2ee 1.1.301.v201001272230) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.486
+!MESSAGE Missing requirement: Java EE Component 1.1.302.v201004131604 (org.eclipse.jst.j2ee 1.1.302.v201004131604) requires 'osgi.bundle; com.ibm.icu [3.4.4,4.1.0)' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:05:09.486
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.486
+!MESSAGE From: WTP EJB UI Plug-in 1.1.301.v200908131325 (org.eclipse.jst.ejb.ui 1.1.301.v200908131325)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.486
+!MESSAGE To: osgi.bundle; org.eclipse.jst.j2ee [1.1.0,1.2.0)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:05:09.486
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.486
+!MESSAGE From: Eclipse Java EE Developer Tools 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq (org.eclipse.jst.enterprise_ui.feature.feature.group 3.1.1.v200908101600-7_7EGrjFQRwRb4P511ebObS5XZhq)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:05:09.486
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jst.ejb.ui [1.1.301.v200908131325,1.1.301.v200908131325]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2020-04-04 04:23:14.272
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 04:23:14.272
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 04:23:14.272
+!MESSAGE Eclipse Java Development Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2020-04-04 04:23:14.272
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.272
+!MESSAGE Software being installed: Eclipse JDT Plug-in Developer Resources 3.18.300.v20200305-0155 (org.eclipse.jdt.source.feature.group 3.18.300.v20200305-0155)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.272
+!MESSAGE Software currently installed: Eclipse Java Development Tools 3.18.200.v20191210-0610 (org.eclipse.jdt.feature.group 3.18.200.v20191210-0610)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.272
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.272
+!MESSAGE Eclipse Java Development Tools 3.18.200.v20191210-0610 (org.eclipse.jdt 3.18.200.v20191210-0610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.272
+!MESSAGE Eclipse Java Development Tools 3.18.300.v20200305-0155 (org.eclipse.jdt 3.18.300.v20200305-0155)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.272
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.272
+!MESSAGE From: Eclipse Java Development Tools 3.18.200.v20191210-0610 (org.eclipse.jdt.feature.group 3.18.200.v20191210-0610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.272
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jdt [3.18.200.v20191210-0610,3.18.200.v20191210-0610]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.272
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.272
+!MESSAGE From: Eclipse Java Development Tools 3.18.300.v20200305-0155 (org.eclipse.jdt.feature.group 3.18.300.v20200305-0155)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.272
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jdt [3.18.300.v20200305-0155,3.18.300.v20200305-0155]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.272
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.272
+!MESSAGE From: Eclipse JDT Plug-in Developer Resources 3.18.300.v20200305-0155 (org.eclipse.jdt.source.feature.group 3.18.300.v20200305-0155)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.272
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jdt.feature.group [3.18.300.v20200305-0155,3.18.300.v20200305-0155]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2020-04-04 04:23:14.280
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 04:23:14.280
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 04:23:14.280
+!MESSAGE Eclipse Java Development Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2020-04-04 04:23:14.280
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.280
+!MESSAGE Software being installed: Eclipse JDT Plug-in Developer Resources 3.18.300.v20200305-0155 (org.eclipse.jdt.source.feature.group 3.18.300.v20200305-0155)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.280
+!MESSAGE Software currently installed: Eclipse Java Development Tools 3.18.200.v20191210-0610 (org.eclipse.jdt.feature.group 3.18.200.v20191210-0610)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.280
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.280
+!MESSAGE Eclipse Java Development Tools 3.18.200.v20191210-0610 (org.eclipse.jdt 3.18.200.v20191210-0610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.280
+!MESSAGE Eclipse Java Development Tools 3.18.300.v20200305-0155 (org.eclipse.jdt 3.18.300.v20200305-0155)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.281
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.281
+!MESSAGE From: Eclipse Java Development Tools 3.18.200.v20191210-0610 (org.eclipse.jdt.feature.group 3.18.200.v20191210-0610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.281
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jdt [3.18.200.v20191210-0610,3.18.200.v20191210-0610]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.281
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.281
+!MESSAGE From: Eclipse Java Development Tools 3.18.300.v20200305-0155 (org.eclipse.jdt.feature.group 3.18.300.v20200305-0155)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.281
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jdt [3.18.300.v20200305-0155,3.18.300.v20200305-0155]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.281
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.281
+!MESSAGE From: Eclipse JDT Plug-in Developer Resources 3.18.300.v20200305-0155 (org.eclipse.jdt.source.feature.group 3.18.300.v20200305-0155)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.281
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jdt.feature.group [3.18.300.v20200305-0155,3.18.300.v20200305-0155]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2020-04-04 04:23:14.294
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 04:23:14.294
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 04:23:14.294
+!MESSAGE Eclipse Java Development Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2020-04-04 04:23:14.294
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.294
+!MESSAGE Software being installed: Eclipse JDT Plug-in Developer Resources 3.18.300.v20200305-0155 (org.eclipse.jdt.source.feature.group 3.18.300.v20200305-0155)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.294
+!MESSAGE Software currently installed: Eclipse Java Development Tools 3.18.200.v20191210-0610 (org.eclipse.jdt.feature.group 3.18.200.v20191210-0610)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.294
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.294
+!MESSAGE Eclipse Java Development Tools 3.18.200.v20191210-0610 (org.eclipse.jdt 3.18.200.v20191210-0610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.295
+!MESSAGE Eclipse Java Development Tools 3.18.300.v20200305-0155 (org.eclipse.jdt 3.18.300.v20200305-0155)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.295
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.295
+!MESSAGE From: Eclipse Java Development Tools 3.18.200.v20191210-0610 (org.eclipse.jdt.feature.group 3.18.200.v20191210-0610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.295
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jdt [3.18.200.v20191210-0610,3.18.200.v20191210-0610]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.295
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.295
+!MESSAGE From: Eclipse Java Development Tools 3.18.300.v20200305-0155 (org.eclipse.jdt.feature.group 3.18.300.v20200305-0155)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.295
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jdt [3.18.300.v20200305-0155,3.18.300.v20200305-0155]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.295
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.295
+!MESSAGE From: Eclipse JDT Plug-in Developer Resources 3.18.300.v20200305-0155 (org.eclipse.jdt.source.feature.group 3.18.300.v20200305-0155)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.295
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jdt.feature.group [3.18.300.v20200305-0155,3.18.300.v20200305-0155]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2020-04-04 04:23:14.296
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 04:23:14.296
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 04:23:14.296
+!MESSAGE Eclipse Java Development Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2020-04-04 04:23:14.296
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.296
+!MESSAGE Software being installed: Eclipse JDT Plug-in Developer Resources 3.18.300.v20200305-0155 (org.eclipse.jdt.source.feature.group 3.18.300.v20200305-0155)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.296
+!MESSAGE Software currently installed: Eclipse Java Development Tools 3.18.200.v20191210-0610 (org.eclipse.jdt.feature.group 3.18.200.v20191210-0610)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.296
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.296
+!MESSAGE Eclipse Java Development Tools 3.18.200.v20191210-0610 (org.eclipse.jdt 3.18.200.v20191210-0610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.296
+!MESSAGE Eclipse Java Development Tools 3.18.300.v20200305-0155 (org.eclipse.jdt 3.18.300.v20200305-0155)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.296
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.296
+!MESSAGE From: Eclipse Java Development Tools 3.18.200.v20191210-0610 (org.eclipse.jdt.feature.group 3.18.200.v20191210-0610)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.296
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jdt [3.18.200.v20191210-0610,3.18.200.v20191210-0610]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.297
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.297
+!MESSAGE From: Eclipse Java Development Tools 3.18.300.v20200305-0155 (org.eclipse.jdt.feature.group 3.18.300.v20200305-0155)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.297
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jdt [3.18.300.v20200305-0155,3.18.300.v20200305-0155]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:23:14.297
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.297
+!MESSAGE From: Eclipse JDT Plug-in Developer Resources 3.18.300.v20200305-0155 (org.eclipse.jdt.source.feature.group 3.18.300.v20200305-0155)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:23:14.297
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.jdt.feature.group [3.18.300.v20200305-0155,3.18.300.v20200305-0155]
+!SESSION 2020-04-04 04:24:51.515 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_242
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data file:/home/azerty/eclipse-workspace/ -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 04:25:08.594
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 04:25:08.594
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@38af386e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@33827b88,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 04:25:08.594
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,Run on Server,
+		Run the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7526bb18,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,Run RAP Application,
+		Run RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7112b21a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 04:25:08.594
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,Debug on Server,
+		Debug the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@30bf881e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,Debug RAP Application,
+		Debug RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1041ebba,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2020-04-04 04:29:46.953
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 04:29:46.953
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 04:29:46.953
+!MESSAGE Eclipse XML Editors and Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:29:46.953
+!MESSAGE "JST Server Adapters Extensions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:29:46.953
+!MESSAGE "JavaScript Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2020-04-04 04:29:46.953
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.953
+!MESSAGE Software being installed: JavaScript Development Tools 2.1.5.v202002141644 (org.eclipse.wst.jsdt.feature.feature.group 2.1.5.v202002141644)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.956
+!MESSAGE Software currently installed: JavaScript Developer Tools SDK 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC (org.eclipse.wst.jsdt_sdk.feature.feature.group 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:46.956
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.956
+!MESSAGE JavaScript Code Manipulation Functionality 1.0.601.v201903222047 (org.eclipse.wst.jsdt.manipulation 1.0.601.v201903222047)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.956
+!MESSAGE JavaScript Code Manipulation Functionality 1.0.100.v200809240707 (org.eclipse.wst.jsdt.manipulation 1.0.100.v200809240707)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:46.956
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.956
+!MESSAGE From: JavaScript Developer Tools 1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb (org.eclipse.wst.jsdt.feature.feature.group 1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.961
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.jsdt.manipulation [1.0.100.v200809240707,1.0.100.v200809240707]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:46.961
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.961
+!MESSAGE From: JavaScript Development Tools 2.1.5.v202002141644 (org.eclipse.wst.jsdt.feature.feature.group 2.1.5.v202002141644)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.961
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.jsdt.manipulation [1.0.601.v201903222047,1.0.601.v201903222047]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:46.961
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.961
+!MESSAGE From: JavaScript Developer Tools SDK 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC (org.eclipse.wst.jsdt_sdk.feature.feature.group 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.961
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.jsdt.feature.feature.group [1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb,1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2020-04-04 04:29:46.980
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 04:29:46.980
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 04:29:46.980
+!MESSAGE Eclipse XML Editors and Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:29:46.980
+!MESSAGE "JST Server Adapters Extensions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:29:46.984
+!MESSAGE "JavaScript Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2020-04-04 04:29:46.984
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.984
+!MESSAGE Software being installed: JavaScript Development Tools 2.1.5.v202002141644 (org.eclipse.wst.jsdt.feature.feature.group 2.1.5.v202002141644)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.984
+!MESSAGE Software currently installed: JavaScript Developer Tools SDK 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC (org.eclipse.wst.jsdt_sdk.feature.feature.group 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:46.984
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.984
+!MESSAGE JavaScript Code Manipulation Functionality 1.0.601.v201903222047 (org.eclipse.wst.jsdt.manipulation 1.0.601.v201903222047)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.985
+!MESSAGE JavaScript Code Manipulation Functionality 1.0.100.v200809240707 (org.eclipse.wst.jsdt.manipulation 1.0.100.v200809240707)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:46.985
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.985
+!MESSAGE From: JavaScript Developer Tools 1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb (org.eclipse.wst.jsdt.feature.feature.group 1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.985
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.jsdt.manipulation [1.0.100.v200809240707,1.0.100.v200809240707]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:46.985
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.985
+!MESSAGE From: JavaScript Development Tools 2.1.5.v202002141644 (org.eclipse.wst.jsdt.feature.feature.group 2.1.5.v202002141644)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.986
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.jsdt.manipulation [1.0.601.v201903222047,1.0.601.v201903222047]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:46.986
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.986
+!MESSAGE From: JavaScript Developer Tools SDK 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC (org.eclipse.wst.jsdt_sdk.feature.feature.group 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:46.986
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.jsdt.feature.feature.group [1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb,1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2020-04-04 04:29:47.056
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 04:29:47.056
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 04:29:47.057
+!MESSAGE Eclipse XML Editors and Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:29:47.057
+!MESSAGE "JST Server Adapters Extensions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:29:47.057
+!MESSAGE "JavaScript Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2020-04-04 04:29:47.057
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.057
+!MESSAGE Software being installed: JavaScript Development Tools 2.1.5.v202002141644 (org.eclipse.wst.jsdt.feature.feature.group 2.1.5.v202002141644)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.057
+!MESSAGE Software currently installed: JavaScript Developer Tools SDK 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC (org.eclipse.wst.jsdt_sdk.feature.feature.group 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:47.057
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.057
+!MESSAGE JavaScript Code Manipulation Functionality 1.0.601.v201903222047 (org.eclipse.wst.jsdt.manipulation 1.0.601.v201903222047)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.057
+!MESSAGE JavaScript Code Manipulation Functionality 1.0.100.v200809240707 (org.eclipse.wst.jsdt.manipulation 1.0.100.v200809240707)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:47.057
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.057
+!MESSAGE From: JavaScript Developer Tools 1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb (org.eclipse.wst.jsdt.feature.feature.group 1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.057
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.jsdt.manipulation [1.0.100.v200809240707,1.0.100.v200809240707]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:47.057
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.057
+!MESSAGE From: JavaScript Development Tools 2.1.5.v202002141644 (org.eclipse.wst.jsdt.feature.feature.group 2.1.5.v202002141644)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.057
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.jsdt.manipulation [1.0.601.v201903222047,1.0.601.v201903222047]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:47.057
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.057
+!MESSAGE From: JavaScript Developer Tools SDK 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC (org.eclipse.wst.jsdt_sdk.feature.feature.group 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.057
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.jsdt.feature.feature.group [1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb,1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb]
+
+!ENTRY org.eclipse.equinox.p2.operations 4 0 2020-04-04 04:29:47.058
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.operations 2 10001 2020-04-04 04:29:47.058
+!MESSAGE Your original request has been modified.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 2 10013 2020-04-04 04:29:47.058
+!MESSAGE Eclipse XML Editors and Tools will be ignored because it is already installed, and updates are not permitted.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:29:47.058
+!MESSAGE "JST Server Adapters Extensions" is already installed, so an update will be performed instead.
+!SUBENTRY 2 org.eclipse.equinox.p2.operations 1 10003 2020-04-04 04:29:47.058
+!MESSAGE "JavaScript Development Tools" is already installed, so an update will be performed instead.
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10054 2020-04-04 04:29:47.058
+!MESSAGE Cannot complete the install because of a conflicting dependency.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.058
+!MESSAGE Software being installed: JavaScript Development Tools 2.1.5.v202002141644 (org.eclipse.wst.jsdt.feature.feature.group 2.1.5.v202002141644)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.058
+!MESSAGE Software currently installed: JavaScript Developer Tools SDK 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC (org.eclipse.wst.jsdt_sdk.feature.feature.group 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:47.058
+!MESSAGE Only one of the following can be installed at once: 
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.058
+!MESSAGE JavaScript Code Manipulation Functionality 1.0.601.v201903222047 (org.eclipse.wst.jsdt.manipulation 1.0.601.v201903222047)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.058
+!MESSAGE JavaScript Code Manipulation Functionality 1.0.100.v200809240707 (org.eclipse.wst.jsdt.manipulation 1.0.100.v200809240707)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:47.058
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.058
+!MESSAGE From: JavaScript Developer Tools 1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb (org.eclipse.wst.jsdt.feature.feature.group 1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.058
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.jsdt.manipulation [1.0.100.v200809240707,1.0.100.v200809240707]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:47.058
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.058
+!MESSAGE From: JavaScript Development Tools 2.1.5.v202002141644 (org.eclipse.wst.jsdt.feature.feature.group 2.1.5.v202002141644)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.058
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.jsdt.manipulation [1.0.601.v201903222047,1.0.601.v201903222047]
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2020-04-04 04:29:47.058
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.059
+!MESSAGE From: JavaScript Developer Tools SDK 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC (org.eclipse.wst.jsdt_sdk.feature.feature.group 1.1.2.v200908101420-31384C2ISGNgQFKoEZWyDtYrDdOC)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2020-04-04 04:29:47.059
+!MESSAGE To: org.eclipse.equinox.p2.iu; org.eclipse.wst.jsdt.feature.feature.group [1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb,1.1.2.v200908101420-77-FGDCcNBDjBXMoBbFb]
+!SESSION 2020-04-04 04:30:24.117 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_242
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 04:30:45.383
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 04:30:45.383
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@17332039,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@776e7dfb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 04:30:45.383
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,Run on Server,
+		Run the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@71418a4a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,Run RAP Application,
+		Run RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@67ecf7ed,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 04:30:45.383
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,Debug on Server,
+		Debug the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@69d021c1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,Debug RAP Application,
+		Debug RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6d5508a5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2020-04-04 04:48:49.296 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_242
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 04:49:04.051
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 04:49:04.051
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@103bcc9f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@106802ea,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 04:49:04.051
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,Run on Server,
+		Run the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@785ef70f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,Run RAP Application,
+		Run RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3d8bd881,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 04:49:04.051
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,Debug on Server,
+		Debug the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@731ab49b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,Debug RAP Application,
+		Debug RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@23358740,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2020-04-04 04:56:46.526 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=1.8.0_242
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 04:57:03.853
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 04:57:03.853
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@103bcc9f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@106802ea,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 04:57:03.853
+!MESSAGE A conflict occurred for ALT+SHIFT+X R:
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.run,Run on Server,
+		Run the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@785ef70f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+X R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.run,Run RAP Application,
+		Run RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3d8bd881,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 04:57:03.854
+!MESSAGE A conflict occurred for ALT+SHIFT+D R:
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.wst.server.launchShortcut.debug,Debug on Server,
+		Debug the current selection on a server,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@731ab49b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+D R,
+	ParameterizedCommand(Command(org.eclipse.rap.tools.launch.RAPLaunchShortcut.debug,Debug RAP Application,
+		Debug RAP Application,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@23358740,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2020-04-04 05:38:06.031 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.version=1.8.0_242
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 05:38:47.779
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 05:38:47.779
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@bddac1c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1c7fd2e0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-04-04 05:38:55.861
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.mylyn.builds.navigator.builds" id and the "Builds" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-04-04 05:38:55.905
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wtp.releng.tools.component.ui.internal.adopter.view.BreakageReportView" id and the "Breakage Report View" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2020-04-04 05:41:41.093
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2020-04-04 05:41:41.107
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2020-04-04 05:41:43.983
+!MESSAGE Connection to http://jope.ow2.org/update/jope/site.xml failed on jope.ow2.org: Name or service not known. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: jope.ow2.org: Name or service not known
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:929)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1324)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1277)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2020-04-04 05:41:44.202
+!MESSAGE Connection to http://jope.ow2.org/update/jope/p2.index failed on jope.ow2.org. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: jope.ow2.org
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1000)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:988)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 05:50:42.120
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.checkBusy(ColumnViewer.java:764)
+	at org.eclipse.jface.viewers.ColumnViewer.update(ColumnViewer.java:543)
+	at org.eclipse.ui.navigator.CommonViewer.update(CommonViewer.java:512)
+	at org.eclipse.jface.viewers.StructuredViewer.update(StructuredViewer.java:1976)
+	at org.eclipse.ui.internal.navigator.resources.nested.NestedProjectsLabelProvider.lambda$2(NestedProjectsLabelProvider.java:87)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-04-04 05:51:06.017
+!MESSAGE Marker id 8 not found.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Marker id 8 not found.
+	at org.eclipse.core.internal.resources.Marker.checkInfo(Marker.java:63)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:260)
+	at org.eclipse.core.internal.resources.Marker.setAttribute(Marker.java:245)
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.findLocationForMarker(MarkerLocationService.java:111)
+	at org.eclipse.m2e.core.internal.markers.MarkerUtils.decorateMarker(MarkerUtils.java:50)
+	at org.eclipse.m2e.core.internal.markers.MavenMarkerManager.addErrorMarker(MavenMarkerManager.java:333)
+	at org.eclipse.m2e.core.internal.markers.MavenMarkerManager.addErrorMarkers(MavenMarkerManager.java:316)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.setupLifecycleMapping(ProjectRegistryManager.java:628)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:530)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$3(ProjectRegistryManager.java:511)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:509)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:361)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:832)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 376 2020-04-04 05:51:06.027
+!MESSAGE Marker id 8 not found.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 05:54:27.696
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 05:54:27.772
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-04-04 05:54:41.008
+!MESSAGE Could not download sources for org.glassfish.gmbal:gmbal-api-only:3.1.0-b001
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.glassfish.gmbal:gmbal-api-only:jar:sources:3.1.0-b001
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.glassfish.gmbal:gmbal-api-only:jar:sources:3.1.0-b001
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-04-04 05:54:41.060
+!MESSAGE Could not resolve artifact org.glassfish.gmbal:gmbal-api-only:jar:sources:3.1.0-b001
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-04-04 05:54:41.061
+!MESSAGE Missing org.glassfish.gmbal:gmbal-api-only:jar:sources:3.1.0-b001
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-04-04 05:54:41.482
+!MESSAGE Could not download sources for org.glassfish.external:management-api:3.0.0-b012
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.glassfish.external:management-api:jar:sources:3.0.0-b012
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.glassfish.external:management-api:jar:sources:3.0.0-b012
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-04-04 05:54:41.487
+!MESSAGE Could not resolve artifact org.glassfish.external:management-api:jar:sources:3.0.0-b012
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-04-04 05:54:41.487
+!MESSAGE Missing org.glassfish.external:management-api:jar:sources:3.0.0-b012
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 05:55:04.008
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 05:55:04.151
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-04-04 05:56:20.710
+!MESSAGE Could not download sources for commonj.sdo:commonj.sdo:2.1.1.v201112051852
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact commonj.sdo:commonj.sdo:jar:sources:2.1.1.v201112051852
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing commonj.sdo:commonj.sdo:jar:sources:2.1.1.v201112051852
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-04-04 05:56:20.732
+!MESSAGE Could not resolve artifact commonj.sdo:commonj.sdo:jar:sources:2.1.1.v201112051852
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-04-04 05:56:20.732
+!MESSAGE Missing commonj.sdo:commonj.sdo:jar:sources:2.1.1.v201112051852
+!SESSION 2020-04-04 06:03:04.065 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.version=1.8.0_242
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-04 06:03:16.592
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 06:03:21.087
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 06:03:21.087
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6442cf3e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@60f1f95b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 06:03:34.711
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.checkBusy(ColumnViewer.java:764)
+	at org.eclipse.jface.viewers.ColumnViewer.update(ColumnViewer.java:543)
+	at org.eclipse.ui.navigator.CommonViewer.update(CommonViewer.java:512)
+	at org.eclipse.jface.viewers.StructuredViewer.update(StructuredViewer.java:1976)
+	at org.eclipse.ui.internal.navigator.resources.nested.NestedProjectsLabelProvider.lambda$2(NestedProjectsLabelProvider.java:87)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:03:40.008
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:03:40.082
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:08:01.563
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:08:01.577
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:08:01.586
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-04-04 06:08:01.889
+!MESSAGE Could not download javadoc for org.glassfish.gmbal:gmbal-api-only:3.1.0-b001
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.glassfish.gmbal:gmbal-api-only:jar:javadoc:3.1.0-b001
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.glassfish.gmbal:gmbal-api-only:jar:javadoc:3.1.0-b001
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-04-04 06:08:01.890
+!MESSAGE Could not resolve artifact org.glassfish.gmbal:gmbal-api-only:jar:javadoc:3.1.0-b001
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-04-04 06:08:01.890
+!MESSAGE Missing org.glassfish.gmbal:gmbal-api-only:jar:javadoc:3.1.0-b001
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-04-04 06:08:02.151
+!MESSAGE Could not download javadoc for org.glassfish.external:management-api:3.0.0-b012
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.glassfish.external:management-api:jar:javadoc:3.0.0-b012
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.glassfish.external:management-api:jar:javadoc:3.0.0-b012
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-04-04 06:08:02.151
+!MESSAGE Could not resolve artifact org.glassfish.external:management-api:jar:javadoc:3.0.0-b012
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-04-04 06:08:02.152
+!MESSAGE Missing org.glassfish.external:management-api:jar:javadoc:3.0.0-b012
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-04-04 06:08:02.257
+!MESSAGE Could not download javadoc for commonj.sdo:commonj.sdo:2.1.1.v201112051852
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact commonj.sdo:commonj.sdo:jar:javadoc:2.1.1.v201112051852
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing commonj.sdo:commonj.sdo:jar:javadoc:2.1.1.v201112051852
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-04-04 06:08:02.257
+!MESSAGE Could not resolve artifact commonj.sdo:commonj.sdo:jar:javadoc:2.1.1.v201112051852
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-04-04 06:08:02.257
+!MESSAGE Missing commonj.sdo:commonj.sdo:jar:javadoc:2.1.1.v201112051852
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:08:09.128
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:08:09.154
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-04-04 06:08:15.934
+!MESSAGE Could not download sources for asm:asm:3.3.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact asm:asm:jar:sources:3.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing asm:asm:jar:sources:3.3.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-04-04 06:08:15.934
+!MESSAGE Could not resolve artifact asm:asm:jar:sources:3.3.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-04-04 06:08:15.934
+!MESSAGE Missing asm:asm:jar:sources:3.3.1
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:08:21.404
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:08:21.407
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-04-04 06:08:22.331
+!MESSAGE Could not download javadoc for asm:asm:3.3.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact asm:asm:jar:javadoc:3.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing asm:asm:jar:javadoc:3.3.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-04-04 06:08:22.331
+!MESSAGE Could not resolve artifact asm:asm:jar:javadoc:3.3.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-04-04 06:08:22.331
+!MESSAGE Missing asm:asm:jar:javadoc:3.3.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-04-04 06:09:33.772
+!MESSAGE Unable to configure cfx-app
+!STACK 0
+org.eclipse.m2e.wtp.MarkedException: Unable to configure cfx-app
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:101)
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:70)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:122)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$2(ProjectConfigurationManager.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:441)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:356)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1369)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:355)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:79)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339)
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:138)
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97)
+	... 16 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:09:35.975
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:09:35.987
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:09:35.999
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.server.core 4 0 2020-04-04 06:09:37.055
+!MESSAGE Could not delete /home/azerty/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/cfx-app/WEB-INF/lib. May be locked by another process.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:11:10.645
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:11:10.655
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:11:10.665
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-04-04 06:14:34.343
+!MESSAGE Unable to configure cfx-app
+!STACK 0
+org.eclipse.m2e.wtp.MarkedException: Unable to configure cfx-app
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:101)
+	at org.eclipse.m2e.wtp.WTPProjectConfigurator.configure(WTPProjectConfigurator.java:70)
+	at org.eclipse.m2e.core.project.configurator.AbstractLifecycleMapping.configure(AbstractLifecycleMapping.java:122)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$2(ProjectConfigurationManager.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:503)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration0(ProjectConfigurationManager.java:441)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.lambda$1(ProjectConfigurationManager.java:356)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1369)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.updateProjectConfiguration(ProjectConfigurationManager.java:355)
+	at org.eclipse.m2e.core.ui.internal.UpdateMavenProjectJob.runInWorkspace(UpdateMavenProjectJob.java:79)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have not been satisfied.
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modifyInternal(FacetedProject.java:363)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.mergeChangesInternal(FacetedProject.java:1181)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.access$2(FacetedProject.java:1117)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject$1.run(FacetedProject.java:324)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.wst.common.project.facet.core.internal.FacetedProject.modify(FacetedProject.java:339)
+	at org.eclipse.m2e.wtp.WebProjectConfiguratorDelegate.configure(WebProjectConfiguratorDelegate.java:138)
+	at org.eclipse.m2e.wtp.AbstractProjectConfiguratorDelegate.configureProject(AbstractProjectConfiguratorDelegate.java:97)
+	... 16 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:14:35.877
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:14:35.889
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:14:35.896
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:15:31.391
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:15:31.397
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:15:31.402
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2020-04-04 06:22:32.915 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.version=1.8.0_242
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 06:22:42.846
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 06:22:42.846
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@611a91df,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@47f5ab58,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:22:59.430
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:22:59.516
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:23:53.307
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:23:53.360
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:24:30.980
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:24:31.011
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:24:31.054
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 06:24:31.754
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.checkBusy(ColumnViewer.java:764)
+	at org.eclipse.jface.viewers.ColumnViewer.update(ColumnViewer.java:543)
+	at org.eclipse.ui.navigator.CommonViewer.update(CommonViewer.java:512)
+	at org.eclipse.jface.viewers.StructuredViewer.update(StructuredViewer.java:1976)
+	at org.eclipse.ui.internal.navigator.resources.nested.NestedProjectsLabelProvider.lambda$2(NestedProjectsLabelProvider.java:87)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:24:51.071
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:24:51.082
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:24:51.099
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2020-04-04 06:25:16.870
+!MESSAGE Could not publish server configuration for Tomcat v9.0 Server at localhost.
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2020-04-04 06:25:16.870
+!MESSAGE Multiple Contexts have a path of "/cfx-app".
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2020-04-04 06:25:30.946
+!MESSAGE Could not publish server configuration for Tomcat v9.0 Server at localhost.
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2020-04-04 06:25:30.946
+!MESSAGE Multiple Contexts have a path of "/cfx-app".
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2020-04-04 06:25:31.730
+!MESSAGE Could not publish server configuration for Tomcat v9.0 Server at localhost.
+!SUBENTRY 1 org.eclipse.jst.server.tomcat.core 4 0 2020-04-04 06:25:31.730
+!MESSAGE Multiple Contexts have a path of "/cfx-app".
+
+!ENTRY org.eclipse.wst.server.core 4 0 2020-04-04 06:26:20.370
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:26:58.288
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:26:58.292
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:26:58.317
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2020-04-04 06:27:48.529
+!MESSAGE Publishing failed with multiple errors
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-04-04 06:27:48.529
+!MESSAGE File not found: /home/azerty/eclipse-workspace/cfx-app/target/m2e-wtp/web-resources/META-INF/maven/fr.insa/cfx-app/pom.properties.
+!STACK 0
+java.lang.Exception: File not found: /home/azerty/eclipse-workspace/cfx-app/target/m2e-wtp/web-resources/META-INF/maven/fr.insa/cfx-app/pom.properties.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:266)
+	at org.eclipse.wst.server.core.util.PublishHelper.copyFile(PublishHelper.java:498)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:437)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.jst.server.tomcat.core.internal.PublishOperation2.publishDir(PublishOperation2.java:143)
+	at org.eclipse.jst.server.tomcat.core.internal.PublishOperation2.execute(PublishOperation2.java:84)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.performTasks(ServerBehaviourDelegate.java:1337)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:956)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:776)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3184)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:357)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-04-04 06:27:48.529
+!MESSAGE File not found: /home/azerty/eclipse-workspace/cfx-app/target/m2e-wtp/web-resources/META-INF/maven/fr.insa/cfx-app/pom.xml.
+!STACK 0
+java.lang.Exception: File not found: /home/azerty/eclipse-workspace/cfx-app/target/m2e-wtp/web-resources/META-INF/maven/fr.insa/cfx-app/pom.xml.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:266)
+	at org.eclipse.wst.server.core.util.PublishHelper.copyFile(PublishHelper.java:498)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:437)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.jst.server.tomcat.core.internal.PublishOperation2.publishDir(PublishOperation2.java:143)
+	at org.eclipse.jst.server.tomcat.core.internal.PublishOperation2.execute(PublishOperation2.java:84)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.performTasks(ServerBehaviourDelegate.java:1337)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:956)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:776)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3184)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:357)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.wst.jsdt.core 4 2 2020-04-04 06:27:48.567
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.wst.jsdt.core".
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1583)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1573)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1408)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1384)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1936)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1502)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:49)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2020-04-04 06:27:48.568
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1583)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1573)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1408)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1384)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1936)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1502)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:49)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:27:48.714
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:27:48.722
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.jsdt.core 4 2 2020-04-04 06:27:48.782
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.wst.jsdt.core".
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1583)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1573)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1408)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1384)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1936)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1502)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:169)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2020-04-04 06:27:48.785
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1583)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1573)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1408)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1384)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1936)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1502)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:169)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:28:13.917
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:28:13.939
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:28:13.954
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2020-04-04 06:29:18.726
+!MESSAGE Publishing failed with multiple errors
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-04-04 06:29:18.726
+!MESSAGE File not found: /home/azerty/eclipse-workspace/cfx-app/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF.
+!STACK 0
+java.lang.Exception: File not found: /home/azerty/eclipse-workspace/cfx-app/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:266)
+	at org.eclipse.wst.server.core.util.PublishHelper.copyFile(PublishHelper.java:498)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:437)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.jst.server.tomcat.core.internal.PublishOperation2.publishDir(PublishOperation2.java:143)
+	at org.eclipse.jst.server.tomcat.core.internal.PublishOperation2.execute(PublishOperation2.java:84)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.performTasks(ServerBehaviourDelegate.java:1337)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:956)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:776)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3184)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:357)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-04-04 06:29:18.726
+!MESSAGE File not found: /home/azerty/eclipse-workspace/cfx-app/target/m2e-wtp/web-resources/META-INF/maven/fr.insa/cfx-app/pom.properties.
+!STACK 0
+java.lang.Exception: File not found: /home/azerty/eclipse-workspace/cfx-app/target/m2e-wtp/web-resources/META-INF/maven/fr.insa/cfx-app/pom.properties.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:266)
+	at org.eclipse.wst.server.core.util.PublishHelper.copyFile(PublishHelper.java:498)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:437)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.jst.server.tomcat.core.internal.PublishOperation2.publishDir(PublishOperation2.java:143)
+	at org.eclipse.jst.server.tomcat.core.internal.PublishOperation2.execute(PublishOperation2.java:84)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.performTasks(ServerBehaviourDelegate.java:1337)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:956)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:776)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3184)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:357)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2020-04-04 06:29:18.726
+!MESSAGE File not found: /home/azerty/eclipse-workspace/cfx-app/target/m2e-wtp/web-resources/META-INF/maven/fr.insa/cfx-app/pom.xml.
+!STACK 0
+java.lang.Exception: File not found: /home/azerty/eclipse-workspace/cfx-app/target/m2e-wtp/web-resources/META-INF/maven/fr.insa/cfx-app/pom.xml.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:835)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:266)
+	at org.eclipse.wst.server.core.util.PublishHelper.copyFile(PublishHelper.java:498)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:437)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.wst.server.core.util.PublishHelper.publishDelta(PublishHelper.java:461)
+	at org.eclipse.jst.server.tomcat.core.internal.PublishOperation2.publishDir(PublishOperation2.java:143)
+	at org.eclipse.jst.server.tomcat.core.internal.PublishOperation2.execute(PublishOperation2.java:84)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.performTasks(ServerBehaviourDelegate.java:1337)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:956)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:776)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3184)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:357)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.wst.jsdt.core 4 2 2020-04-04 06:29:18.859
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.wst.jsdt.core".
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1583)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1573)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1408)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1384)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1936)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1502)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:49)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2020-04-04 06:29:18.859
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1583)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1573)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1408)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1384)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1936)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1502)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:49)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:29:19.021
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 06:29:19.029
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.jsdt.core 4 2 2020-04-04 06:29:19.052
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.wst.jsdt.core".
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1583)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1573)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1408)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1384)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1936)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1502)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:169)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2020-04-04 06:29:19.053
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.lang.ClassCastException: org.eclipse.core.internal.resources.Folder cannot be cast to org.eclipse.wst.jsdt.core.IJavaScriptElement
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1274)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1117)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.handleAffectedChildren(PackageExplorerContentProvider.java:1298)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.processDelta(PackageExplorerContentProvider.java:1241)
+	at org.eclipse.wst.jsdt.internal.ui.packageview.PackageExplorerContentProvider.elementChanged(PackageExplorerContentProvider.java:131)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1583)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1573)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1408)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1384)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:1936)
+	at org.eclipse.wst.jsdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:389)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:305)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:295)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:158)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:380)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1502)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:169)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:17:46.960
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:17:46.966
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:18:15.306
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:18:15.307
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:19:43.462
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:19:43.464
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:21:02.462
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:21:02.465
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:21:16.754
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:21:16.756
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:33:08.593
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:33:08.598
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:33:22.534
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:33:22.535
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:37:20.244
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:37:20.246
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:37:40.019
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:37:40.021
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:37:54.112
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:37:54.115
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:42:24.731
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:42:24.744
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:45:55.615
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:45:55.620
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 07:45:55.625
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 08:20:31.980
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 08:20:31.998
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 08:28:04.557
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 08:28:04.561
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 08:28:04.565
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2020-04-04 08:30:06.371 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.version=1.8.0_242
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 08:30:17.879
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 08:30:17.879
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1f02b6d1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@66a50c93,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 08:30:36.241
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 08:30:36.276
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 08:31:03.002
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.checkBusy(ColumnViewer.java:764)
+	at org.eclipse.jface.viewers.ColumnViewer.update(ColumnViewer.java:543)
+	at org.eclipse.ui.navigator.CommonViewer.update(CommonViewer.java:512)
+	at org.eclipse.jface.viewers.StructuredViewer.update(StructuredViewer.java:1976)
+	at org.eclipse.ui.internal.navigator.resources.nested.NestedProjectsLabelProvider.lambda$2(NestedProjectsLabelProvider.java:87)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-04 08:55:02.273
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2020-04-04 08:55:57.340 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.version=1.8.0_242
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-04 08:56:02.518
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 08:56:05.906
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 08:56:05.906
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1f1e15de,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2ea0161f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 08:56:23.633
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 08:56:23.689
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 08:56:23.979
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.checkBusy(ColumnViewer.java:764)
+	at org.eclipse.jface.viewers.ColumnViewer.update(ColumnViewer.java:543)
+	at org.eclipse.ui.navigator.CommonViewer.update(CommonViewer.java:512)
+	at org.eclipse.jface.viewers.StructuredViewer.update(StructuredViewer.java:1976)
+	at org.eclipse.ui.internal.navigator.resources.nested.NestedProjectsLabelProvider.lambda$2(NestedProjectsLabelProvider.java:87)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+!SESSION 2020-04-04 09:21:56.829 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.version=1.8.0_242
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-04-04 09:22:01.905
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 09:22:04.967
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-04 09:22:04.967
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1a53ac0c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7fdf7359,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 09:22:20.451
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 09:22:20.495
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 09:22:20.678
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface 2 0 2020-04-04 09:22:21.465
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.checkBusy(ColumnViewer.java:764)
+	at org.eclipse.jface.viewers.ColumnViewer.update(ColumnViewer.java:543)
+	at org.eclipse.ui.navigator.CommonViewer.update(CommonViewer.java:515)
+	at org.eclipse.jface.viewers.StructuredViewer.update(StructuredViewer.java:1976)
+	at org.eclipse.ui.internal.navigator.resources.nested.NestedProjectsLabelProvider.lambda$2(NestedProjectsLabelProvider.java:87)
+	at java.util.concurrent.CompletableFuture.uniAccept(CompletableFuture.java:670)
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:646)
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:488)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1609)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1596)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 10:55:23.337
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 10:55:23.345
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-04 10:55:23.349
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2020-04-06 06:55:09.938 -----------------------------------------------
+eclipse.buildId=4.15.0.I20200305-0155
+java.version=1.8.0_242
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-04-06 06:55:28.686
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-04-06 06:55:28.686
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4d6027be,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@475eb4fd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-06 06:55:57.985
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-04-06 06:55:58.069
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!

@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/azerty/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2354208924.index
+2151720174.index
+1670081451.index
+689127668.index
+3953142597.index
+1187723298.index
+625431833.index

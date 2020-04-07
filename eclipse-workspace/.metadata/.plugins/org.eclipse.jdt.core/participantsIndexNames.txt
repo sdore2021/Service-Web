@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+/home/azerty/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1209683994.index
+/cfx-app-client/src/main/java
+/home/azerty/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1516609480.index
+/cfx-app/src/main/java
+/home/azerty/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/298165805.index
+/cfx-app-client/src/main/java
+/home/azerty/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/646010571.index
+/cfx-app/src/main/java
